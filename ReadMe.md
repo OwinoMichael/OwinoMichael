@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm a Software Engineer based in Canada<br>I'm currently pursuing Master's in Applied Computing<br>I have expertise in Full Stack developing and Machine Learning
+🔭 Machine Learning Engineer building scalable AI solutions & robust software systems
+🛠️ Tech Stack:
+  - Backend: Java Spring Boot, PostgreSQL
+  - Frontend: React, JavaScript
+  - ML/AI: Python, TensorFlow, Hadoop, Spark
+  - DevOps: Docker, CI/CD
+
+🌱 Currently focused on distributed systems and large-scale data processing
+📫 Open to collaborate on innovative ML/AI projects
 
 
 ## 🌐 Socials:
