@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Machine Learning Engineer building scalable AI solutions & robust software systems
+🔭 Software Engineer building scalable AI solutions & robust software systems
 🛠️ Tech Stack:
   - Backend: Java Spring Boot, PostgreSQL
   - Frontend: React, JavaScript
