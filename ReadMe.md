@@ -31,6 +31,7 @@ I'm a Software Engineer based in **Greater Toronto Area, Ontario 🇨🇦**, cur
 - Fintech & ERP system development
 - AI/ML integration projects
 - Embedded & Systems programming (**C / Linux**)
+- Blockchain (Solidity, Foundry, Hardhat)
 
 ---
 
