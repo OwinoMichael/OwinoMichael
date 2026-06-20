@@ -17,38 +17,20 @@
 
 </div>
 
----
+## 👋 About Me
 
-## ⚡ About Me
+I'm a Software Engineer based in **Greater Toronto Area, Ontario 🇨🇦**, currently pursuing my **M.Sc. in Computer Science**. I specialize in **backend systems, AI/ML integration, and low-level C programming**, with hands-on experience across blockchain, fintech, ERP, and distributed systems.
 
-```java
-@Component
-public class MichaelOwino implements SoftwareEngineer {
+### 🔨 Currently Building
+- Real-time distributed systems using **Spring Boot & Kafka**
+- Low-level C projects — HTTP server, memory allocator, Unix shell
+- AI-powered applications using **LLM APIs & NLP models**
 
-    private final String location     = "Waterloo, Ontario 🇨🇦";
-    private final String degree       = "M.Sc. Computer Science";
-    private final String focus        = "Backend Systems · AI/ML · Low-Level C";
-
-    @Override
-    public String[] currentlyBuilding() {
-        return new String[]{
-            "Real-time distributed systems with Spring Boot & Kafka",
-            "Low-level C projects: HTTP server, memory allocator, Unix shell",
-            "AI-powered applications using LLM APIs & NLP models"
-        };
-    }
-
-    @Override
-    public String[] openTo() {
-        return new String[]{
-            "Backend Engineering contracts (Java/Spring Boot)",
-            "Fintech & ERP system development",
-            "AI/ML integration projects",
-            "Embedded & Systems programming (C/Linux)"
-        };
-    }
-}
-```
+### 💼 Open To
+- Backend Engineering roles (**Java / Spring Boot**)
+- Fintech & ERP system development
+- AI/ML integration projects
+- Embedded & Systems programming (**C / Linux**)
 
 ---
 
